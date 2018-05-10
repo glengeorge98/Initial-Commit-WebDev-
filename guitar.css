@@ -1,0 +1,17 @@
+.Header{
+    text-align: left;
+    border: 10px;
+    border-style: groove;
+    border-color: chocolate;
+    margin: 10px;
+    background-color: khaki;
+    
+
+}
+
+.Specifics {
+    font-family: Times;
+    font-weight: bold;
+    text-decoration-color: chocolate;
+}
+
